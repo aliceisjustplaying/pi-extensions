@@ -9,7 +9,6 @@ Install any of them with `pi install git:github.com/aliceisjustplaying/<name>`.
 | Extension | What it does |
 | --- | --- |
 | [pi-batch-order](https://github.com/aliceisjustplaying/pi-batch-order) | Keeps batched tool calls parallel, but orders the ones that conflict |
-| [pi-cache-spy](https://github.com/aliceisjustplaying/pi-cache-spy) | Tells you before you send whether your next message will bust the prompt cache, and after whether it did |
 | [pi-claude-artifacts](https://github.com/aliceisjustplaying/pi-claude-artifacts) | Publishes claude.ai artifacts |
 | [pi-interrupt](https://github.com/aliceisjustplaying/pi-interrupt) | Ctrl+Enter interrupts and sends; Enter steers; Alt+Enter queues |
 | [pi-remember-last-model](https://github.com/aliceisjustplaying/pi-remember-last-model) | Restores the last model and thinking level you picked, on startup and `/new` |
